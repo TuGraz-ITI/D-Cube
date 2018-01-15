@@ -5,7 +5,7 @@ D-Cube is a low-cost tool that allows to accurately profile the end-to-end delay
 This tool has been used to set-up the EWSN 2016, 2017 and 2018 dependability competitions.
 * [EWSN 2016 Dependability Competition (Graz, Austria)](http://www.iti.tugraz.at/EWSN2016/cms/index.php?id=8)  
 * [EWSN 2017 Dependability Competition (Uppsala, Sweden)](http://www.ewsn2017.org/dependability-competition1.html)
-' [EWSN 2018 Dependability Competition (Madrid, Spain)](https://ewsn2018.networks.imdea.org/competition-program.html)
+* [EWSN 2018 Dependability Competition (Madrid, Spain)](https://ewsn2018.networks.imdea.org/competition-program.html)
 
 A scientific paper about D-Cube was published at the 14th International Conference on Embedded Wireless Systems and Networks (EWSN), and is available [here](http://www.carloalbertoboano.com/documents/boano17competition.pdf).
 
