@@ -3,7 +3,7 @@
 D-Cube is published as open source hardware under [CC-BY-SA](license.md) ([online](https://creativecommons.org/licenses/by-sa/4.0/deed.en)).
 D-Cube is a low-cost tool that allows to accurately profile the end-to-end delay, reliability, and power consumption, of low-power wireless sensor nodes, as well as to graphically visualize their evolution in real-time.
 This tool has been used to set-up the EWSN 2016, 2017 and 2018 dependability competitions.
-* [EWSN 2016 Dependability Competition (Graz, Austria)](http://www.iti.tugraz.at/EWSN2016/cms/index.php?id=8)  
+* [EWSN 2016 Dependability Competition (Graz, Austria)](http://ewsn2016.tugraz.at/cms/index.php?id=49)  
 * [EWSN 2017 Dependability Competition (Uppsala, Sweden)](http://www.ewsn2017.org/dependability-competition1.html)
 * [EWSN 2018 Dependability Competition (Madrid, Spain)](https://ewsn2018.networks.imdea.org/competition-program.html)
 
