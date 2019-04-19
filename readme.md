@@ -12,7 +12,10 @@ A scientific paper about D-Cube was published at the 14th International Conferen
 ## D-Cube Hardware ##
 The design files in this repository where used to fabricate the current iteration of D-Cube. The GPS module used is a Navspark-GL. For the complementary MOSFET a NTJD4105CT2G was chosen in the final design.
 
-### The current iteration of the hardware (1.0) ###
+### The current version of the hardware (2.1) ###
+The current version of the hardware supports multiple bi-directional GPIOs via isolation. It also adds support for PoE via a PEM1305 module. The aging navspark has been replaced with a more generic ublox neo footprint.
+
+### The orignal version of the hardware (1.0) ###
 ![d-cube hardware revision 1.0](img/d-cube.jpg)
 
 ### The prototype used during EWSN 2016 ###
