@@ -1,3 +1,6 @@
+# D-Cube Benchmark #
+The entire software stack for the ([public D-Cube instance](https://iti-testbed.tugraz.at/overview)) has been released as open-source as well and can be found ([here](https://github.com/TuGraz-ITI/D-Cube-Benchmark)). The initial documentation of the stack is avaialble ([here](https://tugraz-iti.github.io)).
+
 # D-Cube Design #
 
 D-Cube is published as open source hardware under [CC-BY-SA](license.md) ([online](https://creativecommons.org/licenses/by-sa/4.0/deed.en)).
